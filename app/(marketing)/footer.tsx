@@ -8,57 +8,57 @@ export const Footer = () => {
       <div className="mx-auto flex h-full max-w-screen-lg items-center justify-evenly">
         <Button size="lg" variant="ghost" className="w-full cursor-default">
           <Image
-            src="/hr.svg"
-            alt="Croatian"
+            src="/courses-images/java.svg"
+            alt="Java"
             height={32}
             width={40}
             className="mr-4 rounded-md"
           />
-          Croatian
+          Java
         </Button>
 
         <Button size="lg" variant="ghost" className="w-full cursor-default">
           <Image
-            src="/es.svg"
-            alt="Spanish"
+            src="/courses-images/javascript.svg"
+            alt="JavaScript"
             height={32}
             width={40}
             className="mr-4 rounded-md"
           />
-          Spanish
+          JavaScript
         </Button>
 
         <Button size="lg" variant="ghost" className="w-full cursor-default">
           <Image
-            src="/fr.svg"
-            alt="French"
+            src="/courses-images/bash.svg"
+            alt="Bash"
             height={32}
             width={40}
             className="mr-4 rounded-md"
           />
-          French
+          Bash
         </Button>
 
         <Button size="lg" variant="ghost" className="w-full cursor-default">
           <Image
-            src="/it.svg"
-            alt="Italian"
+            src="/courses-images/django.svg"
+            alt="Django"
             height={32}
             width={40}
             className="mr-4 rounded-md"
           />
-          Italian
+          Django
         </Button>
 
         <Button size="lg" variant="ghost" className="w-full cursor-default">
           <Image
-            src="/jp.svg"
-            alt="Japanese"
+            src="/courses-images/react.svg"
+            alt="React"
             height={32}
             width={40}
             className="mr-4 rounded-md"
           />
-          Japanese
+          JavaScript
         </Button>
       </div>
     </div>
